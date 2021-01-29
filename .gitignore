@@ -1,0 +1,16 @@
+.snowpack
+build
+node_modules
+
+.idea
+*.log
+*.sw?
+
+# compress files
+*.zip
+*.rar
+*.7z
+*.tar.*
+*.xz
+*.cab
+*.bzip
