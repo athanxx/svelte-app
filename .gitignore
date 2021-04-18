@@ -1,18 +1,5 @@
-.snowpack
-build
-node_modules
-package-lock.json
-
-
-.idea
+/node_modules/
+/dist/
+/.vscode/
+.DS_Store
 *.log
-*.sw?
-
-# compress files
-*.zip
-*.rar
-*.7z
-*.tar.*
-*.xz
-*.cab
-*.bzip
